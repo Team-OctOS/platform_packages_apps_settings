@@ -88,7 +88,7 @@
     <bool name="config_gesture_settings_enabled">false</bool>
 
     <!-- If the Storage Manager settings are enabled. -->
-    <bool name="config_storage_manager_settings_enabled">false</bool>
+    <bool name="config_storage_manager_settings_enabled">true</bool>
 
     <!-- Display ro.product.name above Device model -->
     <bool name="config_displayDeviceName">false</bool>
@@ -100,9 +100,6 @@
          3 = right side
     -->
     <integer name="config_fingerprintSensorLocation">0</integer>
-
-    <!-- Does the device allow updating the recovery. -->
-    <bool name="config_enableRecoveryUpdater">true</bool>
 
     <!-- Enable/disable wifi region code preferences -->
     <bool name="config_hideWifiRegionCode">false</bool>
