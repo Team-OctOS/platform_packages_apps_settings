@@ -167,4 +167,8 @@ public class Settings extends SettingsActivity {
     public static class FlingSettingsActivity extends SettingsActivity { /* empty */ }
     public static class SmartbarSettingsActivity extends SettingsActivity { /* empty */ }
     public static class PulseSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class UpdaterActivity extends SettingsActivity { /* empty */ }
+    public static class HeadsUpSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class DataSaverSettingsActivity extends SettingsActivity { /* empty */ }
+    public static class QuickSettingsSettingsActivity extends SettingsActivity { /* empty */ }
 }
