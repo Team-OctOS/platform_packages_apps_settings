@@ -140,6 +140,7 @@ import java.net.URISyntaxException;
 import com.teamoctos.tentacles.Tentacles;
 import com.teamoctos.tentacles.fragments.FlingSettings;
 import com.teamoctos.tentacles.fragments.NavbarSettings;
+import com.teamoctos.tentacles.fragments.QuickSettings;
 import com.teamoctos.tentacles.fragments.SmartbarSettings;
 import com.teamoctos.tentacles.fragments.PulseSettings;
 
@@ -380,7 +381,8 @@ public class SettingsActivity extends SettingsDrawerActivity
             NavbarSettings.class.getName(),
             FlingSettings.class.getName(),
             SmartbarSettings.class.getName(),
-            PulseSettings.class.getName()
+            PulseSettings.class.getName(),
+            QuickSettings.class.getName()
     };
 
 
